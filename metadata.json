@@ -1,6 +1,0 @@
-{
-  "name": "SOFIFER",
-  "description": "Aplicación PWA privada para pareja (Sofi & Fer) con IA, agenda compartida, caja fuerte cifrada, ubicación en tiempo real, recuerdos y lista de compras.",
-  "requestFramePermissions": ["geolocation", "camera", "microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
